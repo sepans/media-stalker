@@ -1,0 +1,484 @@
+{
+  "id": 9232,
+  "title": "Eiffel Tower",
+  "definition": "The \u003cb\u003eEiffel Tower\u003c/b\u003e ( , , nickname \u003ci\u003eLa dame de fer\u003c/i\u003e, the iron lady) is a puddle iron lattice tower located on the Champ de Mars in Paris.",
+  "parentCategories": [
+    {
+      "id": 2053027,
+      "title": "Towers in France"
+    },
+    {
+      "id": 2732781,
+      "title": "Former world\u0027s tallest buildings"
+    },
+    {
+      "id": 4569477,
+      "title": "Visitor attractions in Paris"
+    },
+    {
+      "id": 6462912,
+      "title": "Skyscrapers in Paris"
+    },
+    {
+      "id": 7132926,
+      "title": "Landmarks in France"
+    },
+    {
+      "id": 19460173,
+      "title": "7th arrondissement of Paris"
+    },
+    {
+      "id": 26982630,
+      "title": "World\u0027s Fair architecture"
+    },
+    {
+      "id": 27981454,
+      "title": "Historic Civil Engineering Landmarks"
+    },
+    {
+      "id": 29889765,
+      "title": "Buildings and structures completed in 1889"
+    },
+    {
+      "id": 29970566,
+      "title": "Michelin Guide starred restaurants"
+    },
+    {
+      "id": 32375595,
+      "title": "Eiffel Tower"
+    }
+  ],
+  "totalParentCategories": 11,
+  "outLinks": [
+    {
+      "id": 3936,
+      "title": "Bastille Day",
+      "relatedness": 0.6459506312462485,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2011_Fireworks_on_Eiffel_Tower_01.jpg/800px-2011_Fireworks_on_Eiffel_Tower_01.jpg"
+    },
+    {
+      "id": 6788,
+      "title": "Chrysler Building",
+      "relatedness": 0.5930233726327188
+    },
+    {
+      "id": 9454,
+      "title": "Establishing shot",
+      "relatedness": 0.5255071561327497
+    },
+    {
+      "id": 11188,
+      "title": "French Revolution",
+      "relatedness": 0.47204895714922324
+    },
+    {
+      "id": 12232,
+      "title": "Gustave Eiffel",
+      "relatedness": 0.7782477080398955,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gustave_Eiffel_1888_Nadar.jpg/640px-Gustave_Eiffel_1888_Nadar.jpg"
+    },
+    {
+      "id": 12274,
+      "title": "Guy de Maupassant",
+      "relatedness": 0.5886138692405507
+    },
+    {
+      "id": 14800,
+      "title": "Icon",
+      "relatedness": 0.36244743047856853
+    },
+    {
+      "id": 22989,
+      "title": "Paris",
+      "relatedness": 0.5040903478583719
+    },
+    {
+      "id": 23707,
+      "title": "Priest",
+      "relatedness": 0.302758478021236
+    },
+    {
+      "id": 29462,
+      "title": "Sabotage",
+      "relatedness": 0.40628628551215673
+    },
+    {
+      "id": 29778,
+      "title": "Thomas Edison",
+      "relatedness": 0.5107436727181531
+    },
+    {
+      "id": 32927,
+      "title": "World War II",
+      "relatedness": 0.28148896606734475
+    },
+    {
+      "id": 34080,
+      "title": "List of tallest buildings and structures in the world",
+      "relatedness": 0.6552155022519441
+    },
+    {
+      "id": 43596,
+      "title": "United States Naval Observatory",
+      "relatedness": 0.5333508594538547
+    },
+    {
+      "id": 45829,
+      "title": "Structural engineering",
+      "relatedness": 0.5910296358123883
+    },
+    {
+      "id": 45943,
+      "title": "Swastika",
+      "relatedness": 0.45709711277725484
+    },
+    {
+      "id": 47425,
+      "title": "Bungee jumping",
+      "relatedness": 0.5945874844247969,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/6/65/Mombas_over_Kawarau_bridge_--Queenstown--.jpg"
+    },
+    {
+      "id": 47687,
+      "title": "Cosmic ray",
+      "relatedness": 0.5042276753506763
+    },
+    {
+      "id": 48339,
+      "title": "Parachute",
+      "relatedness": 0.5466242202982958
+    },
+    {
+      "id": 48656,
+      "title": "Victor Lustig",
+      "relatedness": 0.6157947888846331,
+      "image": "http://upload.wikimedia.org/wikipedia/en/c/c0/Victor_Lustig.jpg"
+    },
+    {
+      "id": 50268,
+      "title": "World\u0027s fair",
+      "relatedness": 0.6061217634541144,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/International_Exhibition_Brussels_par_Privat-Livemont.jpg/320px-International_Exhibition_Brussels_par_Privat-Livemont.jpg"
+    },
+    {
+      "id": 50588,
+      "title": "Expo 67",
+      "relatedness": 0.5555036745984621
+    },
+    {
+      "id": 51255,
+      "title": "Charles de Gaulle",
+      "relatedness": 0.4864186607610149
+    },
+    {
+      "id": 53694,
+      "title": "Pig iron",
+      "relatedness": 0.52041161851702
+    },
+    {
+      "id": 53842,
+      "title": "New Orleans",
+      "relatedness": 0.35347096659885313
+    },
+    {
+      "id": 59827,
+      "title": "Searchlight",
+      "relatedness": 0.4158366385933062
+    },
+    {
+      "id": 65424,
+      "title": "Hydraulics",
+      "relatedness": 0.4357897194506598
+    },
+    {
+      "id": 70764,
+      "title": "Flag of France",
+      "relatedness": 0.5875709352901258
+    },
+    {
+      "id": 87319,
+      "title": "Charles Gounod",
+      "relatedness": 0.4449260367802169
+    },
+    {
+      "id": 91363,
+      "title": "Arlington County, Virginia",
+      "relatedness": 0.4431113958298051
+    },
+    {
+      "id": 92656,
+      "title": "Same-sex marriage",
+      "relatedness": 0.35713220828220393
+    },
+    {
+      "id": 156640,
+      "title": "Alexandre Dumas, fils",
+      "relatedness": 0.5614378316256785
+    },
+    {
+      "id": 158482,
+      "title": "De minimis",
+      "relatedness": 0.5124694285088067
+    },
+    {
+      "id": 167585,
+      "title": "Washington Monument",
+      "relatedness": 0.6447940942553139,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_Monument_Dusk_Jan_2006.jpg/640px-Washington_Monument_Dusk_Jan_2006.jpg"
+    },
+    {
+      "id": 171325,
+      "title": "First Battle of the Marne",
+      "relatedness": 0.534421828112102
+    },
+    {
+      "id": 187317,
+      "title": "Antenna (radio)",
+      "relatedness": 0.5224617643855629
+    },
+    {
+      "id": 187479,
+      "title": "Life (magazine)",
+      "relatedness": 0.37215087766371957
+    },
+    {
+      "id": 212301,
+      "title": "Champ de Mars",
+      "relatedness": 0.6908776747173861,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MG-Paris-Champ_de_Mars.jpg/320px-MG-Paris-Champ_de_Mars.jpg"
+    },
+    {
+      "id": 220021,
+      "title": "Court of Cassation (France)",
+      "relatedness": 0.5752727083323805
+    },
+    {
+      "id": 226188,
+      "title": "Inauguration",
+      "relatedness": 0.40596455060038794
+    },
+    {
+      "id": 262226,
+      "title": "Jean Drapeau",
+      "relatedness": 0.4692487553233944
+    },
+    {
+      "id": 265594,
+      "title": "Block and tackle",
+      "relatedness": 0.48491358207647006
+    },
+    {
+      "id": 275919,
+      "title": "Theodor Wulf",
+      "relatedness": 0.0
+    },
+    {
+      "id": 376965,
+      "title": "Military history of France during World War II",
+      "relatedness": 0.47557812468340976
+    },
+    {
+      "id": 399747,
+      "title": "William-Adolphe Bouguereau",
+      "relatedness": 0.5296804417119452
+    },
+    {
+      "id": 407525,
+      "title": "Dietrich von Choltitz",
+      "relatedness": 0.600665201996905,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Bundesarchiv_Bild_183-2003-1112-500%2C_Dietrich_v._Choltitz-2.png"
+    },
+    {
+      "id": 449760,
+      "title": "Paris Observatory",
+      "relatedness": 0.5862031459743005
+    },
+    {
+      "id": 477175,
+      "title": "Radiant energy",
+      "relatedness": 0.4590417938602118
+    },
+    {
+      "id": 548182,
+      "title": "List of tallest towers in the world",
+      "relatedness": 0.6789655140038063
+    },
+    {
+      "id": 671331,
+      "title": "Exposition Universelle (1889)",
+      "relatedness": 0.7310746812687722,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/1/17/Paris_1889_plakat.jpg"
+    },
+    {
+      "id": 680871,
+      "title": "Millau Viaduct",
+      "relatedness": 0.6480213255675134,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Creissels_et_Viaduct_de_Millau.jpg/1024px-Creissels_et_Viaduct_de_Millau.jpg"
+    },
+    {
+      "id": 741843,
+      "title": "Liberation of Paris",
+      "relatedness": 0.5962047309228743,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg/1024px-Crowds_of_French_patriots_line_the_Champs_Elysees-edit2.jpg"
+    },
+    {
+      "id": 771974,
+      "title": "Charles Garnier (architect)",
+      "relatedness": 0.5700177361520171
+    },
+    {
+      "id": 881491,
+      "title": "Maurice Koechlin",
+      "relatedness": 0.6410190270278978,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/72/Maurice_koechlin.jpg"
+    },
+    {
+      "id": 946289,
+      "title": "Beechcraft Bonanza",
+      "relatedness": 0.4522119304011789
+    },
+    {
+      "id": 977673,
+      "title": "Jean-Louis-Ernest Meissonier",
+      "relatedness": 0.5186301478880211
+    },
+    {
+      "id": 990224,
+      "title": "Guestbook",
+      "relatedness": 0.5341153203025857
+    },
+    {
+      "id": 1071756,
+      "title": "Gastronomy",
+      "relatedness": 0.5135511599717023
+    },
+    {
+      "id": 1273047,
+      "title": "Lattice tower",
+      "relatedness": 0.6505646419951336
+    },
+    {
+      "id": 1838227,
+      "title": "Radio jamming",
+      "relatedness": 0.4522119304011789
+    },
+    {
+      "id": 1977267,
+      "title": "Alain Ducasse",
+      "relatedness": 0.5407583012356271
+    },
+    {
+      "id": 2036409,
+      "title": "Michelin Guide",
+      "relatedness": 0.5534588778394219
+    },
+    {
+      "id": 2198844,
+      "title": "Allies of World War II",
+      "relatedness": 0.3660678744134529
+    },
+    {
+      "id": 2731583,
+      "title": "Adolf Hitler",
+      "relatedness": 0.4115328550336379
+    },
+    {
+      "id": 2852265,
+      "title": "Puddling (metallurgy)",
+      "relatedness": 0.6151209094781727,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/5/51/Puddling_furnace.jpg"
+    },
+    {
+      "id": 4465969,
+      "title": "List of tallest buildings and structures in the Paris region",
+      "relatedness": 0.6722624714519942
+    },
+    {
+      "id": 5052869,
+      "title": "List of tallest structures in France",
+      "relatedness": 0.0
+    },
+    {
+      "id": 5065635,
+      "title": "Franz Reichelt",
+      "relatedness": 0.0
+    },
+    {
+      "id": 5843419,
+      "title": "France",
+      "relatedness": 0.3787230902679428
+    },
+    {
+      "id": 7954681,
+      "title": "Montreal",
+      "relatedness": 0.34612324551361684
+    },
+    {
+      "id": 9218963,
+      "title": "Stair",
+      "relatedness": 0.0
+    },
+    {
+      "id": 16990777,
+      "title": "List of tallest freestanding structures in the world",
+      "relatedness": 0.6534048783210754
+    },
+    {
+      "id": 17662271,
+      "title": "Jules Verne (restaurant)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 17664319,
+      "title": "Eiffel Tower (Paris, Tennessee)",
+      "relatedness": 0.0
+    },
+    {
+      "id": 18935551,
+      "title": "Public domain",
+      "relatedness": 0.3535410311454238
+    },
+    {
+      "id": 19373997,
+      "title": "Elevator",
+      "relatedness": 0.5934106995543327,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borough_tube_station_lifts_01.jpg/1024px-Borough_tube_station_lifts_01.jpg"
+    },
+    {
+      "id": 21073719,
+      "title": "Hubert Chanson",
+      "relatedness": 0.5407583012356271
+    },
+    {
+      "id": 21555729,
+      "title": "Film",
+      "relatedness": 0.3038988257957571
+    },
+    {
+      "id": 23443990,
+      "title": "Robert Moriarty",
+      "relatedness": 0.0
+    },
+    {
+      "id": 27218900,
+      "title": "Erika Eiffel",
+      "relatedness": 0.0
+    },
+    {
+      "id": 27666417,
+      "title": "Thierry Devaux",
+      "relatedness": 0.0
+    }
+  ],
+  "totalOutLinks": 82,
+  "service": "/services/exploreArticle",
+  "request": {
+    "title": "Eiffel Tower",
+    "outLinks": "true",
+    "definition": "true",
+    "linkFormat": "plain",
+    "responseFormat": "json",
+    "linkRelatedness": "true",
+    "parentCategories": "true"
+  }
+}
