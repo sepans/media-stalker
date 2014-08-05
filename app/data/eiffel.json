@@ -59,7 +59,8 @@
     {
       "id": 6788,
       "title": "Chrysler Building",
-      "relatedness": 0.5930233726327188
+      "relatedness": 0.5930233726327188,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg/220px-Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg"
     },
     {
       "id": 9454,
@@ -80,7 +81,8 @@
     {
       "id": 12274,
       "title": "Guy de Maupassant",
-      "relatedness": 0.5886138692405507
+      "relatedness": 0.5886138692405507,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Guy_de_Maupassant_fotograferad_av_F%C3%A9lix_Nadar_1888.jpg/220px-Guy_de_Maupassant_fotograferad_av_F%C3%A9lix_Nadar_1888.jpg"
     },
     {
       "id": 14800,
@@ -125,7 +127,8 @@
     {
       "id": 45829,
       "title": "Structural engineering",
-      "relatedness": 0.5910296358123883
+      "relatedness": 0.5910296358123883,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Balloon_frame.jpg/640px-Balloon_frame.jpg"
     },
     {
       "id": 45943,
@@ -291,7 +294,8 @@
     {
       "id": 449760,
       "title": "Paris Observatory",
-      "relatedness": 0.5862031459743005
+      "relatedness": 0.5862031459743005,
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Paris_Observatory_XVIII_century.png"
     },
     {
       "id": 477175,
@@ -355,7 +359,8 @@
     {
       "id": 1273047,
       "title": "Lattice tower",
-      "relatedness": 0.6505646419951336
+      "relatedness": 0.6505646419951336,
+      "image": "http://scotttower.com/images/Gallery/web1.jpg"
     },
     {
       "id": 1838227,

@@ -41,6 +41,11 @@ body {
   }
 }
 
+.related-container {
+  width: 100%;
+  height: 60%;
+}
+
 .node {
   border: solid 1px white;
   
@@ -52,7 +57,7 @@ body {
   
   .text {
 
-    font-size: 16px;
+    font-size: 14px;
     padding: 5px;
     color: #FFF;
     width: 100%;
@@ -61,20 +66,33 @@ body {
   }
 }
 
+.drag-hint {
+    font-size: 10px;
+    float: right;
+    /* color: #fff; */
+    z-index: 10;
+    position: absolute;
+    bottom: -11px;
+    right: 3px;
+}
+
 .node:hover .text {
   background-color: rgba(0,0,0,0.1);
   opacity: 0.8;
 }
 
 #main-image {
-  background-image: url(http://upload.wikimedia.org/wikipedia/commons/b/bf/Construction_tour_eiffel7.JPG);
+ /* background-image: url(http://upload.wikimedia.org/wikipedia/commons/b/bf/Construction_tour_eiffel7.JPG);*/
+  width: 600px;
+  height: 600px; 
+  background-size: 100%;
 }
 
 /*
 #chart {
-  width: 960px;
-  height: 500px;
+ 
   background: #ddd;
+  position: absolute;
 }
 
 text {
